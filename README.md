@@ -1,8 +1,8 @@
-<h2 align="left">👨‍💻 Objetivos</h2>
+<h2 align="left">👨‍💻 Objetivos do Desenvolvimento</h2>
 
 ###
 
-<p align="left">O projeto, apesar de simples, pois envolve somente uma tela de início para o usuário cadastrar seus dados, foi ótimo para aplicar meus conhecimentos mediante integração frontend com backend, e a comunicação com o banco de dados NoSQL.</p>
+<p align="left">O projeto, embora simples — com uma única tela inicial para cadastro de dados pelo usuário — foi uma ótima oportunidade para aplicar meus conhecimentos na integração entre frontend e backend, além da comunicação com um banco de dados NoSQL.</p>
 
 <hr style="width: 180px; margin: 4px 0 16px 0; border: 0; border-top: 1px solid #ccc;" />
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Permite que o usuário crie e delete seus dados a partir de uma tela de cadastro. O software é integrado ao MongoDB, pois garante flexibilidade e bom desempenho para analisar os dados e facilidade diante de futuras atualizações ou manutenção.</p>
+<p align="left">Permite que o usuário crie um perfil pela tela de cadastro e, se desejar, exclua-o posteriormente. O software é integrado ao MongoDB e Prisma, garantindo flexibilidade, bom desempenho na manipulação dos dados e facilidade para futuras atualizações e manutenção.</p>
 
 <hr style="width: 180px; margin: 4px 0 16px 0; border: 0; border-top: 1px solid #ccc;" />
 
