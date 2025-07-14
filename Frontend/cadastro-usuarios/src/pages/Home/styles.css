@@ -1,0 +1,99 @@
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 75px;
+    padding-bottom: 36px;
+}
+
+.title {
+    font-size: 28px;
+    color: #fff;
+}
+
+.description {
+    font-size: 14px;
+    color: #ffffffab;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+    margin-top: 18px;
+    margin-bottom: 5px;
+    gap: 15px;
+    padding: 25px;
+    border-radius: 20px;
+    background-color: #2b2e4a;
+    max-width: 50%;
+    width: 425px;
+}
+
+.input_name, .input_age, .input_email {
+    outline: none;
+    border: 1px solid #56558ce8;
+    padding-left: 12px;
+    border-radius: 30px;
+    height: 38px;
+    background-color: #3d3d6b;
+    color: #fff;
+    font-size: 14px;
+}
+
+.register_button {
+    cursor: pointer;
+    color: #fff;
+    border-radius: 18px;
+    border: none;
+    background-color: #05bde2  ;
+    padding: 12px 4px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.register_button:hover {
+    opacity: 0.9;
+}
+
+.register_button:active {
+    opacity: 0.8;
+}
+
+.dataUsers {
+    color: #fff;
+    padding: 15px;
+    background-color: #322d52;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0px;
+    border-radius: 12px;
+    width: 425px;
+}
+
+.trash {
+    display: flex;
+    align-items: center;
+}
+
+.image_trash {
+    width: 24px;
+}
+
+.placeholder_input {
+    font-weight: 700;
+}
+
+span {
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.delete_button {
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+}
+
+.delete_button:hover {
+    opacity: 0.6;
+}
