@@ -1,14 +1,14 @@
-<h2 align="left">👨‍💻 Objetivos do Desenvolvimento</h2>
+<h2 align="left">👨‍💻 Propósito do Projeto</h2>
 
 ###
 
-<p align="left">O projeto, embora simples — com uma única tela inicial para cadastro de dados pelo usuário — foi uma ótima oportunidade para aplicar meus conhecimentos na integração entre frontend e backend, além da comunicação com um banco de dados NoSQL.</p>
+<p align="left">Este projeto, embora simples — com uma única tela inicial para cadastro de dados pelo usuário — foi criado para aplicar e consolidar meus conhecimentos na integração entre frontend e backend, além de praticar a comunicação com um banco de dados NoSQL. A ideia principal foi desenvolver uma aplicação funcional que permita entender melhor o fluxo completo de dados, desde a interface até o armazenamento.</p>
 
 <hr style="width: 180px; margin: 4px 0 16px 0; border: 0; border-top: 1px solid #ccc;" />
 
 ###
 
-<h2 align="left">🌐 Funcionalidades:</h2>
+<h2 align="left">🌐 Funcionalidades</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">🛠 Tecnologias Utilizadas:</h2>
+<h2 align="left">🛠 Tecnologias Utilizadas</h2>
 
 ###
 
